@@ -19,11 +19,12 @@ public class BloquesConsola {
 		if (numero >= 1) {
 			for (int i = 1; i <= numero; i++) {
 				System.out.print(i + " ");
+				// ********Block start**********//
 				cont++;
 				if (cont == 10) {
 					System.out.println("\n");
 					cont = 0;
-				}
+				} // **********Block end**********//
 			}
 		}
 		System.out.println("Has salido del programa");
