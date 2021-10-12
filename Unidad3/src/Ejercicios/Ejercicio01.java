@@ -1,7 +1,5 @@
 package Ejercicios;
 
-import java.util.Scanner;
-
 public class Ejercicio01 {
 	/**
 	 * Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
@@ -10,14 +8,10 @@ public class Ejercicio01 {
 	 */
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
 		int numero = 5;
 
-		System.out.println("Son multiplos de 5 los siguientes números: ");
-		System.out.println("");
+		System.out.println("Son multiplos de 5 los siguientes números: \n");
 		for (int i = 1; i <= 20; i++)// Para i=1 mientras i sea menor o igual a 20 i=i+1
 			System.out.print(+(numero * i) + " ");// Muestro el valor de numero por el valor de i
-
-		sc.close();
 	}
 }
