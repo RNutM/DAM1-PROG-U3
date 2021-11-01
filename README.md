@@ -1,7 +1,7 @@
 # DAM1-PROG-U3
 Ejercicios Unidad 3
 
-* Abre los archivos PDF (DAM1-PROG-U2\Unidad2\docs\\*.pdf) para ver las descripciones de todos los algoritmos enumerados de los diferentes paquetes.
+* Abre los archivos PDF (DAM1-PROG-U3\ProgUnidad3\docs\\*.pdf) para ver las descripciones de todos los algoritmos enumerados de los diferentes paquetes.
 * IDE Eclipse
 
 * Proyectos 2018-2019
